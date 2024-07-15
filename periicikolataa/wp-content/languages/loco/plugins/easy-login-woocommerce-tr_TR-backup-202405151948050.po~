@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Login/Signup Popup\n"
+"POT-Creation-Date: 2024-03-28 18:14+0530\n"
+"PO-Revision-Date: 2024-05-15 19:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Türkçe\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: easy-login-addon-security\n"
+"X-Poedit-SearchPath-1: easy-login-woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.9; wp-6.5.3"
+
+#: easy-login-addon-security/class-xoo-sel-core.php:153
+msgid "Please verify you are a human."
+msgstr ""
+"\n"
+"Lütfen insan olduğunuzu doğrulayın."
+
+#: easy-login-addon-security/class-xoo-sel-core.php:180
+msgid "Couldn't verify recaptcha. Please try again."
+msgstr "Doğrulanamadı. Lütfen tekrar deneyin."
+
+#: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:533
+#: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:602
+#: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:836
+msgid "Username / Email"
+msgstr "Kullanıcı adı/ e-posta"
+
+#: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:656
+msgid "Password"
+msgstr "Şifre"
+
+#: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:716
+msgid "New Password"
+msgstr "Yeni Şifre"
+
+#: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:779
+msgid "Confirm Password"
+msgstr "Şifreyi onayla"
+
+#: easy-login-woocommerce/admin/class-xoo-el-menu-settings.php:15
+msgid "Login/Signup Popup"
+msgstr "Giriş/Kayıt"
+
+#: easy-login-woocommerce/admin/class-xoo-el-menu-settings.php:66
+msgid "Add to menu"
+msgstr "Menüye ekle"
+
+#: easy-login-woocommerce/admin/views/settings/general.php:267
+#: easy-login-woocommerce/includes/class-xoo-el-frontend.php:148
+#: easy-login-woocommerce/includes/class-xoo-el-frontend.php:163
+msgid "Login"
+msgstr "Giriş"
+
+#: easy-login-woocommerce/admin/views/settings/general.php:275
+#: easy-login-woocommerce/admin/views/settings/general.php:292
+msgid "Sign Up"
+msgstr "Kayıt Ol"
+
+#: easy-login-woocommerce/admin/views/settings/general.php:284
+msgid "Sign in"
+msgstr "Kayıt Ol"
+
+#: easy-login-woocommerce/admin/views/settings/general.php:300
+msgid "Email Reset Link"
+msgstr "Email sıfırlama linki"
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:85
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:89
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:172
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:176
+msgid "Error:"
+msgstr "Hata!"
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:89
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:176
+msgid "Username is required."
+msgstr "Kullanıcı adı gerekli."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:93
+msgid "Please enter a valid email address."
+msgstr "Lütfen geçerli bir e-posta adresi girin."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:112
+msgid "Please enter your password to login"
+msgstr "Lütfen şifrenizi giriniz"
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:117
+msgid "We couldn't find your account."
+msgstr "Hesabınızı bulamadık."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:122
+msgid "Please enter your details to register."
+msgstr "Kayıt olmak için lütfen bilgilerinizi giriniz."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:122
+msgid "We couldn't find your account. Please register."
+msgstr "Hesabınızı bulamadık. Lütfen kaydolun."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:196
+msgid "Lost your password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:205
+msgid "Wrong password."
+msgstr "Yanlış şifre."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:208
+msgid "Incorrect Email or Username."
+msgstr "Email ya da kullanıcı adı yanlış."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:225
+msgid "Login successful"
+msgstr "Giriş başarılı"
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:304
+msgid "Please enter an account password."
+msgstr "Lütfen geçerli bir şifre girin."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:308
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:655
+msgid "Passwords don't match"
+msgstr "Şifre eşleşmedi"
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:341
+msgid "Registration successful"
+msgstr "Kayıt başarılı."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:346
+msgid "Registration successful. Please <a class=\"xoo-el-login-tgr\">Login</a>"
+msgstr "Kayıt başarılı. "
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:351
+msgid ""
+"Your account was created successfully and a password has been sent to your "
+"email address"
+msgstr "Hesabınız başarıyla oluşturuldu ve e-posta adresinize şifre gönderildi"
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:351
+msgid "Your account was created successfully."
+msgstr "Hesabın başarıyla oluşturuldu."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:397
+msgid ""
+"An account is already registered with your email address. Please log in."
+msgstr ""
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:401
+msgid "Please provide a valid email address."
+msgstr "Lütfen geçerli bir e-posta adresi girin."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:413
+msgid "Please enter a valid account username."
+msgstr "Lütfen geçerli bir kullanıcı adı girin."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:417
+msgid ""
+"An account is already registered with that username. Please choose another."
+msgstr ""
+"Bu kullanıcı adıyla bir hesap zaten kayıtlı. Lütfen başka bir tane seçin."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:442
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr "Eğer problem yaşıyorsanız bizimle iletişime geçin."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:608
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+"Hesabınızda kayıtlı e-posta adresine bir şifre sıfırlama e-postası "
+"gönderildi, ancak gelen kutunuzda görünmesi birkaç dakika sürebilir. Başka "
+"bir sıfırlama işlemi yapmadan önce lütfen en az 10 dakika bekleyin."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:649
+#: easy-login-woocommerce/templates/global/xoo-el-resetpw-section.php:31
+msgid ""
+"This key is invalid or has already been used. Please reset your password "
+"again if needed."
+msgstr ""
+"Bu anahtar geçersiz veya zaten kullanılmış. Gerekiyorsa lütfen şifrenizi "
+"tekrar sıfırlayın."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:678
+msgid ""
+"Your password has been reset successfully! Please <a class=\"xoo-el-login-"
+"tgr\">Login</a>"
+msgstr "Şifreniz başarıyla sıfırlandı. Giriş yapabilirsiniz."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:711
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr "Hata! Kullanıcı adı veya e-posta adresi girin."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:715
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "Hata! Bu isimde bir e-posta adresi kayıtlı değil."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:736
+msgid "<strong>ERROR</strong>: Invalid username or email."
+msgstr "Hata! Geçersiz kullanıcı adı veya e-posta adresi."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:761
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Birisi aşağıdaki hesap için şifre sıfırlama talebinde bulundu:"
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:763
+#, php-format
+msgid "Site Name: %s"
+msgstr ""
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:765
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:871
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:766
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Bu bir hataysa bu e-postayı dikkate almayın; hiçbir şey olmayacak."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:767
+msgid "To reset your password, visit the following address:"
+msgstr "Şifrenizi sıfırlamak için aşağıdaki adresi ziyaret edin:"
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:771
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Şifre sıfırla"
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:802
+msgid "The email could not be sent."
+msgstr "E-posta gönderilemedi."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:802
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "E-postanız çalışmıyor olabilir."
+
+#: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:872
+msgid "To set your password, visit the following address:"
+msgstr "Şifrenizi ayarlamak için aşağıdaki adresi ziyaret edin:"
+
+#: easy-login-woocommerce/includes/class-xoo-el-frontend.php:61
+msgid "Change?"
+msgstr "Değiştirmek mi istiyorsunuz?"
+
+#: easy-login-woocommerce/includes/class-xoo-el-frontend.php:126
+msgid "My account"
+msgstr "Hesabım"
+
+#: easy-login-woocommerce/includes/class-xoo-el-frontend.php:131
+#: easy-login-woocommerce/includes/class-xoo-el-frontend.php:138
+msgid "Logout"
+msgstr "Çıkış"
+
+#: easy-login-woocommerce/includes/class-xoo-el-frontend.php:153
+msgid "Signup"
+msgstr "Kayıt"
+
+#: easy-login-woocommerce/includes/class-xoo-el-frontend.php:158
+msgid "Lost Password"
+msgstr "Kayıp şifre"
+
+#: easy-login-woocommerce/includes/xoo-el-functions.php:412
+#, php-format
+msgid "Please check %s"
+msgstr "Lütfen kontrol edin %s"
+
+#: easy-login-woocommerce/includes/xoo-el-functions.php:416
+#, php-format
+msgid "%s cannot be empty"
+msgstr "%s boş bırakılamaz"
+
+#: easy-login-woocommerce/includes/xoo-el-functions.php:564
+msgid "Don't have an account? Signup now"
+msgstr "Hesabınız yok mu? Şimdi kayıt olun."
+
+#: easy-login-woocommerce/includes/xoo-el-functions.php:568
+msgid "Already a member? Login"
+msgstr "Zaten üye misiniz? Giriş yapın."
+
+#: easy-login-woocommerce/templates/global/xoo-el-login-section.php:32
+msgid "Remember me"
+msgstr "Beni hatırla"
+
+#: easy-login-woocommerce/templates/global/xoo-el-login-section.php:34
+msgid "Forgot Password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+#: easy-login-woocommerce/templates/global/xoo-el-lostpw-section.php:24
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+"\n"
+"Şifrenizi mi unuttunuz? Lütfen kullanıcı adınızı ya da e-posta adresinizi "
+"girin. E-posta yoluyla yeni bir şifre oluşturmak için bir bağlantı "
+"alacaksınız."
+
+#: easy-login-woocommerce/templates/global/xoo-el-resetpw-section.php:35
+msgid "Please enter a new password"
+msgstr "Lütfen yeni bir şifre girin."
+
+#: easy-login-woocommerce/templates/global/xoo-el-resetpw-section.php:49
+msgid "Change Password"
+msgstr "Şifreyi değiştir"
+
+#: easy-login-woocommerce/templates/xoo-el-form.php:27
+msgid "Continue to resetting password"
+msgstr "Şifre sıfırlamaya devam et"
+
+#: easy-login-woocommerce/xoo-form-fields-fw/admin/class-xoo-aff-fields.php:1244
+#, php-format
+msgid "Please check %s."
+msgstr "Lütfen kontrol edin %s"
+
+#: easy-login-woocommerce/xoo-form-fields-fw/admin/class-xoo-aff-fields.php:1248
+#, php-format
+msgid "%s cannot be empty."
+msgstr "%s boş bırakılamaz"
+
+#: easy-login-woocommerce/xoo-form-fields-fw/admin/class-xoo-aff-fields.php:1256
+#, php-format
+msgid "%s needs to be minimum %s characters."
+msgstr "%s en az %s karakterden oluşmalıdır."
+
+#: easy-login-woocommerce/xoo-form-fields-fw/admin/class-xoo-aff-fields.php:1261
+#, php-format
+msgid "%s cannot exceed %s characters."
+msgstr "%s, %s karakteri aşamaz."
+
+#: easy-login-woocommerce/xoo-form-fields-fw/admin/class-xoo-aff-fields.php:1266
+#, php-format
+msgid "%s should be minimum %s."
+msgstr "%s minimum %s olmalıdır."
+
+#: easy-login-woocommerce/xoo-form-fields-fw/admin/class-xoo-aff-fields.php:1271
+#, php-format
+msgid "%s cannot be more than %s."
+msgstr "%s, %s den fazla olamaz."
+
+#: easy-login-woocommerce/xoo-form-fields-fw/admin/class-xoo-aff-fields.php:1276
+#, php-format
+msgid "%s should be in multiple of %s."
+msgstr "%s, %s'in katları olmalıdır."
+
+#: easy-login-woocommerce/xoo-form-fields-fw/includes/class-xoo-aff.php:123
+msgid "Please enter a stronger password."
+msgstr "Lütfen daha güçlü bir şifre girin."
